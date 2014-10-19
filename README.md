@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-First repository as a test
+First repository as a test.
